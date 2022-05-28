@@ -68,8 +68,15 @@ hasilLooping=[];
   }
   
   hasilLooping=hasilLooping;
-  jumlahPria="Jumlah Pegawai Pria adalah : "+jumlahPria;
-  jumlahWanita="Jumlah Pegawai Wanita adalah : "+jumlahWanita;
+  /* script yang dianggap salah oleh bot 
+   jumlahPria="Jumlah Pegawai Pria adalah : "+jumlahPria;
+   jumlahWanita="Jumlah Pegawai Wanita adalah : "+jumlahWanita;
+  */
+
+  // perbaikan
+  jumlahPria=jumlahPria;
+  jumlahWanita=jumlahWanita;
+  
   komentar=komentar;
   
   // ##### Script Tugas Alur Logika ##### //
